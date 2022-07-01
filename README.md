@@ -11,4 +11,6 @@ microphysics with warm rain using continuous and discontinuous spectral elements
 Relevant_NUMA_code: Contains the Fortran code used for the non-column-based Kessler microphysics implementation as extracted from the Nonhydrostatic
 Unified Model of the atmosphere (NUMA).
 
+To cite this data please use this doi link: https://doi.org/10.5281/zenodo.6787270
+
 If any additional data is sought please reach out to Yassine Tissaoui through email: yt277@njit.edu 
